@@ -9,3 +9,4 @@ y
 ☺
 hi
 hola karinita
+insertamos una imagen
